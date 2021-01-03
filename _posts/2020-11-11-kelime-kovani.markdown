@@ -25,7 +25,7 @@ Her şey artık hazır. İlk mobil oyunumuzu / uygulamamızı  Google Play'de ya
 
 **Oyunumuzdan Görseller**
 
-<img style="width: 100%" src="../img/kelime_kovani.png">
+<img style="width: 100%" src="../img/kelime_kovan.png">
 
 Oyun Linki : [Kelime Kovanı](https://play.google.com/store/apps/details?id=com.ScutoidGames.KelimeKovan)
 
