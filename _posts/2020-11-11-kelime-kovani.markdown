@@ -23,7 +23,7 @@ Oyunumuz hazır geriye mobil oyun hesabımıza isim vermek kaldı. Bu ismi geome
 # Google Play'de Yayınlamak
 Her şey artık hazır. İlk mobil oyunumuzu / uygulamamızı  Google Play'de yayınlamaya geldik. 25 dolarlık ödeme sonrasında hesabımız açıldı. 16 saatlik bir kimlik doğrulama sonrasında uygulamamızı Google Play hesabımıza attık. Tabii ki uygulama direkt yayınlanmıyor. 5. günün sonunda uygulama uygunluğu denetlendi, onay alındı ve sonunda **Kelime Kovanı** uygulamamız **Google Play'de** yayınlandı.
 
-Oyunumuzdan Görseller
+# Oyunumuzdan Görseller
 
 <img style="width: 100%" src="../img/kelime_kovani.png">
 
