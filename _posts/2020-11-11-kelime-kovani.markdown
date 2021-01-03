@@ -18,10 +18,10 @@ Kullanacağımız oyun motorunu seçmemiz lazımdı. Araştırmalarımız sonucu
 Yaklaşık 2 aylık bir süre sonunda (Vize haftasına denk geldi :) ) basit bir oyun yapabilecek hâle gelmiştik. Geriye oyun fikri kalmıştı. Düşünmeye başladık. En sonunda kelime oyunu hazırlamayı planladık. Fakat bu oyun piyasadaki oyunların benzeri olmamalıydı. Kendimize özgün olmalıydı. Çalışmalara başladık ve kendi bilgimizin sınırlarında kelime oyunumuzu bitirdik. Harflerin içinde bulunduğu şekil arı kovanlarındaki bal peteğine benzediğinden **Kelime Kovanı** adı verilmesine karar kıldık.
 
 # Scutoid Games
-Oyunumuz hazır geriye mobil oyun şirketimize isim vermek kaldı. Bu ismi geometrik bir şekil olan **Scutoid** şeklinden ilham aldık. Şirket logosunu da geometrik şeklimize göre düzenledik.
+Oyunumuz hazır geriye mobil oyun hesabımıza isim vermek kaldı. Bu ismi geometrik bir şekil olan **Scutoid** şeklinden ilham aldık. Hesap logosunu da geometrik şeklimize göre düzenledik.
 
 # Google Play'de Yayınlamak
-Her şey artık hazır. İlk mobil oyunumuzu / uygulamamızı  Google Play'de yayınlamaya geldik. 25$ bir ödeme sonrasında hesabımız açıldı. 16 saatlik bir kimlik doğrulama sonrasında uygulamamızı Google Play hesabımıza attık. Tabii ki uygulama direkt yayınlanmıyor. 5. günün sonunda uygulama uygunluğu denetlendi, onay alındı ve sonunda **Kelime Kovanı** uygulamamız **Google Play'de** yayınlandı.
+Her şey artık hazır. İlk mobil oyunumuzu / uygulamamızı  Google Play'de yayınlamaya geldik. 25 dolarlık ödeme sonrasında hesabımız açıldı. 16 saatlik bir kimlik doğrulama sonrasında uygulamamızı Google Play hesabımıza attık. Tabii ki uygulama direkt yayınlanmıyor. 5. günün sonunda uygulama uygunluğu denetlendi, onay alındı ve sonunda **Kelime Kovanı** uygulamamız **Google Play'de** yayınlandı.
 
 <img style="width: 100%" src="../img/kelime_kovani.png">
 
