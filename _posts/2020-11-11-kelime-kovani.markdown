@@ -9,7 +9,7 @@ permalink: :title/
 
 >Merhaba, size mobil oyun dünyasına giriş yaptığımız ilk oyundan biraz bahsedeceğim.
 
-Covid-19 hastalığı ile eve takıldığımız günlerde 2 arkadaşıma mobil oyun / uygulama yapmayı önerdim. Onlarda bu teklifi kabul etti ve çalışmalara başladık.
+Covid-19 hastalığı ile eve takıldığımız günlerde 2 arkadaşıma mobil oyun / uygulama yapmayı önerdim. Arkadaşlarım bu teklifi kabul etti ve çalışmalara başladık.
 
 # Unity
 Kullanacağımız oyun motorunu seçmemiz lazımdı. Araştırmalarımız sonucunda en doğru ve kullanışlı oyun motorunun **Unity** olduğuna karar verdik. Fakat **Unity** arayüzü oldukça karmaşıktı. En iyisi bilen birinden yardım almaktı. **Udemy** bizim için gayet yeterliydi. Hemen en iyi kursu araştırdık, satın alma işlemlerinden sonra derslere başladık.
