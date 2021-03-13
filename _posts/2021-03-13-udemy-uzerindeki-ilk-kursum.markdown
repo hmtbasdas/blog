@@ -23,7 +23,9 @@ Henüz ilk deneyimim olduğu için geliştirmem gereken bir çok şeyin olduğun
 
 Bilgilerimi aktarmaya devam, durmak yasak.
 
-En kısa sürede 2. eğitim setini oluşturmak üzere 
+En kısa sürede 2. eğitim setini oluşturmak üzere
+
+Udemy Kurs Linki : [Jekyll ile Blog Sitesi Yapın](https://www.udemy.com/course/jekyll-ile-blog-sitesi-yapn/)
 
 Kendinize çok dikkat edin,
 <br>
