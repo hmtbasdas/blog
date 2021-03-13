@@ -26,5 +26,7 @@ Bilgilerimi aktarmaya devam, durmak yasak.
 En kısa sürede 2. eğitim setini oluşturmak üzere 
 
 Kendinize çok dikkat edin,
+
 Öğrenmeyi bırakmayın,
+
 Hoşça kalın... :))
