@@ -2,7 +2,7 @@
 layout: post
 title:  "Yeni Udemy Kursu Haberi (Android Studio)"
 subtitle: "3 Güncel Mobil Uygulama"
-date:   2021-09-06 20:28:12 +0300
+date:   2021-06-09 20:28:12 +0300
 category: "blog"
 permalink: :title/
 ---
