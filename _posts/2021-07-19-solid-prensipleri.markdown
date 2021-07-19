@@ -2,7 +2,7 @@
 layout: post
 title:  "SOLID Prensipleri Tanıyalım"
 subtitle: "Nedir bu SOLID prensipleri ?"
-date:   2020-07-19 13:23:21 +0300
+date:   2021-07-19 13:23:21 +0300
 category: "blog"
 permalink: :title/
 ---
