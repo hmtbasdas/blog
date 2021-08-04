@@ -25,4 +25,7 @@ Pseudocode (Sözde Kod), bilgisayar bilimleri alanında algoritmalar ve programl
 
 Örneğin:
 
-<img style="justify-content: center;" src="https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/basics-for-everyone/pseudocode/figures/s%C3%B6zdekod3.jpg">
+<img style="display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;" src="https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/basics-for-everyone/pseudocode/figures/s%C3%B6zdekod3.jpg">
