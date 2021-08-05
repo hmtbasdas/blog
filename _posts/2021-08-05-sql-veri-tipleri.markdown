@@ -80,4 +80,4 @@ permalink: :title/
 
 - **geography :** Coğrafi koordinat ve GPS verilerini tutmak için kullanılır.
 
-> Kaynakça : [Link](https://docs.microsoft.com/en-us/sql/t-sql/data-types/data-types-transact-sql?view=sql-server-2017)
+> Kaynakça : [Link](https://medium.com/@berkaykosak8/sql-server-veri-tipleri-2a612ebc9f68)
