@@ -49,7 +49,7 @@ permalink: :title/
 
 - **smallmoney :** 4 byte büyüklüğünde, - 214.000 / + 214.000 arası parasal değerleri tutmak için kullanılır.
 
-## 5.( Tarih - Zaman Veri Tipleri
+## 5.) Tarih - Zaman Veri Tipleri
 
 - **date :** 3 byte uzunluğunda, tarihleri ***YYYY-AA-GG*** formatında saklar.
 
