@@ -8,7 +8,7 @@ permalink: :title/
 ---
 
 # SQL SERVER VERİ TİPLERİ
-
+<br/>
 ## 1.) Metinsel Veri Tipleri
 - **char :**  8000 karaktere kadar değer alabilirler. char(n) şeklinde kullanılır ve verilen değerden az karakter girilse dahi giriş yapılan boyut kadar yer kaplar. Unicode desteklemez.
 
