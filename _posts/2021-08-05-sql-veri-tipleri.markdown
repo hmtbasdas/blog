@@ -7,7 +7,7 @@ category: "blog"
 permalink: :title/
 ---
 
-# SQL SERVER VERİ TİPLERİ
+# SQL SERVER VERİ TİPLERİ <br/>
 
 
 ## 1.) Metinsel Veri Tipleri
